@@ -12,8 +12,8 @@ export function CallToAction() {
             See where financial automation can take your business.
           </h1>
           <p className="mt-6 text-gray-400">
-            The first financial tool you&apos;ll love. And the last one
-            you&apos;ll ever need.
+            The first financial tool you&lsquo;ll love. And the last one
+            you&lsquo;ll ever need.
           </p>
           <div className="mt-14">
             <Button />
