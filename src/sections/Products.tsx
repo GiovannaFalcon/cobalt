@@ -37,7 +37,7 @@ export function Products() {
     <section className="mb-40">
       <div className="ml-46 mb-10">
         <h1 className="max-w-[560px] text-5xl font-bold bg-gradient-to-r from-[#FFFFFF] to-[#71717A] bg-clip-text text-transparent">
-          Everything you need. Nothing you don’t.
+          Everything you need. Nothing you don&apos;t.
         </h1>
         <p className="mt-4 max-w-[440px] text-[#A1A1AA]">
           Financial management and visibility in one place. Experience
